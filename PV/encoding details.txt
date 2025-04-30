@@ -1,0 +1,138 @@
+SOLAR
+Season 11
+	Winter 1
+	Spring 2
+	Summer 3	
+	Autumn 4
+DayNight 22
+	Day 1
+	Night 2	
+
+Total solar irradiance 33
+	Low	1
+	Medium	2
+	High	3
+	Very High	4
+
+Direct normal irradiance 44
+	Low	1
+	Medium	2
+	High	3
+	Very High	4
+	
+Global horizontal irradiance 55
+	Low	1
+	Medium	2
+	High	3
+	Very High	4
+
+Temp  66	
+	Freezing 1
+	Cold	2
+	Mild	3
+	Warm	4
+	HighT	5
+
+HotPressure_bin	77
+	Low	1
+	Medium	2
+	High	3
+	Very High	4
+
+Humidity	88
+	Dry	1
+	Comfortable	2
+	Humid	3
+	Very Humid	4
+
+Power 99
+	Low	1
+	Medium	2
+	High	3
+	Very High	4
+	
+
+Wind SOLAR
+Season 11
+	Winter 1
+	Spring 2
+	Summer 3	
+	Autumn 4
+DayNight 22
+	Day 1
+	Night 2	
+
+Wind speed at height of 10 meters (m/s) 33
+	Calm 	1
+	Breeze	2
+	Moderate 3
+	Strong 	4
+	Gale 	5
+
+Wind direction at height of 10 meters (˚) 44
+	N-E	1
+	E-S	2
+	S-W	3
+	W-N	4
+Wind speed at height of 30 meters (m/s)	55
+	Calm 	1
+	Breeze	2
+	Moderate	 3
+	Strong 	4
+	Gale 	5
+
+Wind direction at height of 30 meters (˚) 66
+	N-E	1
+	E-S	2
+	S-W	3
+	W-N	4
+
+Wind speed at height of 50 meters (m/s)	77
+	Calm 	1
+	Breeze	2
+	Moderate	 3
+	Strong 	4
+	Gale 	5
+
+Wind direction at height of 50 meters (˚) 88
+	N-E	1
+	E-S	2
+	S-W	3
+	W-N	4
+
+Wind speed - at the height of wheel hub(m/s) 99
+	Calm 	1
+	Breeze	2
+	Moderate	 3
+	Strong 	4
+	Gale 	5
+Wind direction- at the height of wheel hub (˚) 12
+	N-E	1
+	E-S	2
+	S-W	3
+	W-N	4
+
+Air temperature  (°C) 13
+	Freezing 1
+	Cold	2
+	Mild	3
+	Warm	4
+	Hot	5
+
+Atmosphere (hpa) 14
+	Low	1
+	Medium	2
+	High	3
+	Very High 4
+
+Relative humidity (%)	15
+	Dry	1
+	Comfort	2
+	Humid	3
+	Very Humid	4
+
+Power (MW) 16
+	Low	1
+	Medium	2
+	High	3
+	Very High 	4
