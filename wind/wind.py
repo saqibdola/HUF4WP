@@ -11,8 +11,8 @@ from pathlib import Path
 
 # Import your existing scripts as modules
 sys.path.append(str(Path(__file__).parent))
-from missingdatahandlingwind import load_and_clean, process_missing_data, validate_results
-from missinghandlingdataplusdiscretizationwindnew import load_data, discretize_all
+from missingdatahandling import load_and_clean, process_missing_data, validate_results
+from discretization import load_data, discretize_all
 
 
 def run_pipeline(input_file, cleaned_output=None, discretized_output=None):
