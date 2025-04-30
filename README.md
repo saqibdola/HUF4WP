@@ -1,2 +1,4 @@
 # HUF4WP
-High-Utility Framework for Wind and PV
+A Data-Fusion Framework Leveraging High-Utility Patterns for Renewable Energy Classification
+
+
