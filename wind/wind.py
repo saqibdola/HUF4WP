@@ -69,9 +69,9 @@ def run_pipeline(input_file, cleaned_output=None, discretized_output=None):
 
 if __name__ == "__main__":
     # Example usage
-    INPUT_FILE = "solardata/Wind farm site 5 (Nominal capacity-36MW).xlsx"
-    CLEANED_OUTPUT = "solardata/newcleaned_wind5.csv"
-    DISCRETIZED_OUTPUT = "solardata/newdiscretized_wind5.csv"
+    INPUT_FILE = "" # Input wind data file(s)
+    CLEANED_OUTPUT = "" # Output cleaned file(s)
+    DISCRETIZED_OUTPUT = "" # Output discretized file(s)
 
     final_result = run_pipeline(
         input_file=INPUT_FILE,
