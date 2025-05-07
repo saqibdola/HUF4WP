@@ -155,13 +155,13 @@ def validate_results(df):
 
 
 if __name__ == "__main__":
-    INPUT_FILE = "solardata/Solar station site 1 (Nominal capacity-50MW).xlsx"
+    INPUT_FILE = "" # Input solar cleaned file(s)
     INPUT_FILE = convert_excel_to_csv_utf8(INPUT_FILE)
 
     if INPUT_FILE is None:
         raise ValueError("❌ Failed to convert or locate input file.")
 
-    OUTPUT_FILE = "solardata/newcleanedsingle_1solar1.csv"
+    OUTPUT_FILE = "" # output solar file(s)
 
     try:
         print("\n" + "=" * 50)
