@@ -4,11 +4,11 @@
 
 ### The Wind folder contains:
 
-#### The scripts for wind data handling, features discretization and details about encoding
+#### The scripts for wind data handling, feature discretization and details about feature weigtihs and encoding
 
 
 ### The PV folder contains:
 
-#### The scripts for solar data handling, features discretization and details about encoding.
+#### The scripts for solar data handling, features discretization and details about feature weights and encoding.
 
 
