@@ -264,8 +264,8 @@ def discretize_all(df):
 
 def main():
     """Main execution pipeline with comprehensive logging"""
-    INPUT_FILE = "solardata/newcleanedsingle_1solar1.csv"
-    OUTPUT_FILE = "solardata/newsinglediscretizedsolar8.csv"
+    INPUT_FILE = "" # Input file
+    OUTPUT_FILE = "" # Output discretized file
 
     print("\n" + "=" * 50)
     print("🌞 Solar Data Discretization Pipeline")
