@@ -234,8 +234,8 @@ def validate_results(df):
 
 
 if __name__ == "__main__":
-    INPUT_FILE = "solardata/Wind farm site 5 (Nominal capacity-36MW).xlsx"
-    OUTPUT_FILE = "solardata/newcleanedsingle_1wind5.csv"
+    INPUT_FILE = "" # Input
+    OUTPUT_FILE = "" # Output
     INVALID_FILE = "invalid_rows.csv"
 
     try:
