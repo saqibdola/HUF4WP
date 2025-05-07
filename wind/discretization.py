@@ -130,8 +130,8 @@ def discretize_all(df):
         return None
 
 if __name__ == "__main__":
-    INPUT_FILE = "solardata/newcleanedsingle_1wind5.csv"
-    OUTPUT_FILE = "solardata/newcleandsinglediscretized.csv"
+    INPUT_FILE = "" # Input cleaned file(s)
+    OUTPUT_FILE = "" # Output discretized file(s)
 
     print("="*50)
     print("🌪️ Wind Data Discretization Pipeline")
