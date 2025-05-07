@@ -1,0 +1,12 @@
+
+Assigned weigths (importance) to Solar features
+
+
+DayNight 			19
+Total Solar Irradiance 		19
+Relative Humidity 		8
+Air Temprature 			5
+Atmosphere	 		4
+Direct Normal Irradiance 	3
+Global horizontal irradiance  	2
+Season 				1
