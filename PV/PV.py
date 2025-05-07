@@ -56,8 +56,8 @@ def run_solar_pipeline(input_file, cleaned_output=None, discretized_output=None)
 
 if __name__ == "__main__":
     # Example usage
-    INPUT_FILE = "solardata/Solar station site 1 (Nominal capacity-50MW).xlsx"
-    CLEANED_FILE = "solardata/newcleaned_solar1.csv"
-    DISCRETIZED_FILE = "solardata/newdiscretized_solar1.csv"
+    INPUT_FILE = "" # Input solar data file(s)
+    CLEANED_FILE = "" # Output cleaned file(s)
+    DISCRETIZED_FILE = "" # Output discretized file(s)
 
     run_solar_pipeline(INPUT_FILE, CLEANED_FILE, DISCRETIZED_FILE)
